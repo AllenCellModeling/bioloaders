@@ -1,5 +1,4 @@
-
-m setuptools import setup
+from setuptools import setup
 import sys
 
 with open('requirements.txt', 'r') as f:
