@@ -1,3 +1,5 @@
+javabridge
+python-bioformats
 numpy
 scipy
 matplotlib
